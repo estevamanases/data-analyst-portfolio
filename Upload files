@@ -1,1 +1,33 @@
-
+📊 Análisis de Embudo y Retención de Usuarios – MercadoLibre
+🧩 Descripción del proyecto
+Este proyecto analiza el comportamiento de los usuarios dentro del embudo de conversión de MercadoLibre, con el objetivo de identificar puntos de fuga y oportunidades de mejora en la retención.
+🎯 Objetivos
+Analizar el embudo completo (visita → carrito → compra)
+Identificar caídas en la conversión
+Evaluar la retención de usuarios por cohortes
+Proponer mejoras basadas en datos
+🛠️ Tecnologías utilizadas
+SQL
+Python (Pandas)
+Power BI
+📊 Análisis realizado
+1. Embudo de conversión
+Se analizaron las siguientes etapas:
+Visita
+Agregar al carrito
+Compra
+Se calcularon tasas de conversión entre cada etapa.
+2. Identificación de puntos de fuga
+Se detectaron las etapas con mayor abandono de usuarios.
+3. Análisis de cohortes
+Se evaluó la retención de usuarios en el tiempo.
+📈 Resultados clave
+Se identificó una caída significativa entre carrito y compra
+La retención disminuye considerablemente después del primer mes
+Los usuarios nuevos presentan menor conversión
+💡 Recomendaciones
+Optimizar el proceso de checkout
+Implementar recordatorios de carrito abandonado
+Mejorar la experiencia del usuario en etapas críticas
+📸 Visualizaciones
+https://docs.google.com/spreadsheets/d/1GvT6ET8e8cTH9HjTfYy-1NaT-heQDmZNQrY1ttVzSHk/edit?usp=edit
