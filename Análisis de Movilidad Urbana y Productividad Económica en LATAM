@@ -1,0 +1,34 @@
+🌎 Análisis de Movilidad Urbana y Productividad Económica en LATAM
+🧩 Descripción del proyecto
+Este proyecto analiza la relación entre la movilidad urbana (tiempos de traslado, tráfico, congestión) y la productividad económica en distintas ciudades de Latinoamérica.
+El objetivo es entender cómo los problemas de movilidad impactan el desempeño económico y la calidad de vida.
+🎯 Objetivos
+Analizar indicadores de movilidad urbana
+Evaluar su impacto en variables económicas (PIB, productividad)
+Identificar patrones entre ciudades
+Proponer mejoras basadas en datos
+🛠️ Tecnologías utilizadas
+SQL
+Python (Pandas, Matplotlib)
+Power BI
+📊 Análisis realizado
+1. Limpieza y transformación de datos
+Normalización de datasets
+Manejo de valores nulos
+Integración de múltiples fuentes
+2. Análisis exploratorio (EDA)
+Comparación de tiempos de traslado por ciudad
+Relación entre tráfico y productividad
+3. Correlación entre variables
+Relación entre congestión y PIB
+Impacto del tiempo de traslado en eficiencia económica
+📈 Resultados clave
+Ciudades con mayor congestión presentan menor productividad relativa
+Existe correlación entre tiempos de traslado y eficiencia laboral
+Algunas ciudades muestran mejor resiliencia a pesar del tráfico
+💡 Recomendaciones
+Inversión en transporte público
+Políticas de movilidad inteligente
+Fomento del trabajo remoto en zonas críticas
+📸 Visualizaciones
+https://tripleten.com/proxy/pierce/trainers/workspace/shares/e52d116f-dc6b-4842-b9d7-1b195aa86907%3A200162794%3Adata-analyst/archive
